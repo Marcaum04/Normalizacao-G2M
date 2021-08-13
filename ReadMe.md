@@ -14,12 +14,19 @@ Lucas Aragão | <a href="https://github.com/LUCASDESENVOLVEDOR"> <img src="https
 
 ## Participantes 👦👦👦👩👦👦
 
-- Gustavo Borges (https://github.com/GustavoBorgesSouza)
-- Levi Bueno (https://github.com/levlzlnxD)
-- Lucas Medina (https://github.com/Lucas-M3dina)
-- Lívia Negrini (https://github.com/livianegrini)
-- Marcos Vinicius (https://github.com/Marcaum04)
-- Matheus Araújo (https://github.com/maatheuss0)
+Integrantes | Github | E-mail
+------------ | ------------- | ------------- 
+Lucas Medina | <a href="https://github.com/Lucas-M3dina"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> | <a href="mailto:lucas.m3dina@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+Marcos Vinicius | <a href="https://github.com/Marcaum04"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+Gustavo Borges | <a href="https://github.com/GustavoBorgesSouza"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+Levi Bueno | <a href="https://github.com/levlzlnxD"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+Lívia Negrini | <a href="https://github.com/livianegrini"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+Matheus Araújo | <a href="https://github.com/maatheuss0"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+Marcos Vinicius | <a href="https://github.com/Marcaum04"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+
+
+
 
 ##  E-mails ✉️
 
