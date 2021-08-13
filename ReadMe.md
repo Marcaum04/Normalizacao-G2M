@@ -6,13 +6,11 @@
     <tbody>
 </table>
 
-
+Professor | Github
 ------------ | -------------
 Saulo Santos | <a href="https://github.com/Saulomsantos"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+Lucas Aragão | <a href="https://github.com/LUCASDESENVOLVEDOR"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-
-- Saulo Santos | (https://github.com/Saulomsantos)
-- Lucas Aragão  (https://github.com/LUCASDESENVOLVEDOR) 
 
 ## Trello 📈
 
