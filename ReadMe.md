@@ -8,7 +8,7 @@
 
 Professor | Github
 ------------ | -------------
-Saulo Santos | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+Saulo Santos | <a href="http://google.com"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 
 - Saulo Santos | (https://github.com/Saulomsantos)
