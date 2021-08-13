@@ -2,7 +2,7 @@
 
 ## Professores 👨‍🏫👨‍🏫
 
-- Saulo Santos (https://github.com/Saulomsantos) 
+- Saulo Santos <a href=“https://github.com/Saulomsantos“> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 - Lucas Aragão (https://github.com/LUCASDESENVOLVEDOR) 
 ## Trello 📈
 
