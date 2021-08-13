@@ -2,8 +2,8 @@
 
 ## Professores 👨‍🏫👨‍🏫
 
-- Saulo Santos (https://github.com/Saulomsantos) 
-- Lucas Aragão (https://github.com/LUCASDESENVOLVEDOR) 
+- Saulo Santos  (https://github.com/Saulomsantos
+- Lucas Aragão  (https://github.com/LUCASDESENVOLVEDOR) 
 ## Trello 📈
 
 - https://trello.com/b/daFSw7Bg/normaliza%C3%A7%C3%A3o 
