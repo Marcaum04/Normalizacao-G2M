@@ -17,7 +17,7 @@ CREATE TABLE FUNCIONARIOS(
 );
 GO
 
-SELECT * FROM FUNCIONARIOS
+SELECT * FROM FUNCIONARIOS ORDER BY nome asc;
 
 
 INSERT INTO FUNCIONARIOS (nome, telefone, email, cargo, cpf, salario, dataContratacao, setor)
