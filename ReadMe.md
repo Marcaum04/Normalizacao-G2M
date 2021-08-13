@@ -1,8 +1,5 @@
 # Grupo 2 - Normalização Banco de Dados!💻
 
-
-
-
 ## Menu 👨‍💻
 
 -   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Pesquisa">Pesquisa</a> 
@@ -11,10 +8,6 @@
 -   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Material_Apoio">Material de apoio</a> 
 -   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o_Final">Apresentação Final</a> 
 
-
-
-
-
 ## Professores 👨‍🏫👨‍🏫
 
 Professor | Github 
@@ -22,18 +15,11 @@ Professor | Github
 Saulo Santos | <a href="https://github.com/Saulomsantos"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> 
 Lucas Aragão | <a href="https://github.com/LUCASDESENVOLVEDOR"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-
-
-
-
 ## Trello 📈
 Aqui temos o Trello feito pela equipe, este que é o ambiente utilizado para organizar o projeto de acordo com tarefas, etapas e integrantes
 
 
 <a href="https://trello.com/b/daFSw7Bg/normaliza%C3%A7%C3%A3o"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </a>
-
-
-
 
 
 ## Participantes 👦👦👦👩👦👦
