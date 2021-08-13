@@ -1,5 +1,13 @@
 # Grupo 2 - Normalização Banco de Dados!💻
 
+## Menu 👨‍💻
+
+-   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Pesquisa">Pesquisa</a> 
+-   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Exemplos_Pr%C3%A1ticos">Exemplo prático</a>
+-   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Exerc%C3%ADcios">Exercício</a> 
+-   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Material_Apoio">Material de apoio</a> 
+-   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o_Final">Apresentação Final</a> 
+
 ## Professores 👨‍🏫👨‍🏫
 
 Professor | Github 
@@ -28,10 +36,4 @@ Lívia Negrini | <a href="https://github.com/livianegrini"> <img src="https://im
 Matheus Araújo | <a href="https://github.com/maatheuss0"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> | <a href="mailto:matheusaraujoms.machado@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 
-## Escopo 👨‍💻
 
--   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Pesquisa">Pesquisa</a> 
--   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Exemplos_Pr%C3%A1ticos">Exemplo prático</a>
--   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Exerc%C3%ADcios">Exercício</a> 
--   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Material_Apoio">Material de apoio</a> 
--   <a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o_Final">Apresentação Final</a> 
