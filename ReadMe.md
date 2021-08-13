@@ -2,7 +2,7 @@
 
 ## Professores 👨‍🏫👨‍🏫
 
-- Saulo Santos  (https://github.com/Saulomsantos
+- Saulo Santos  (https://github.com/Saulomsantos)
 - Lucas Aragão  (https://github.com/LUCASDESENVOLVEDOR) 
 ## Trello 📈
 
