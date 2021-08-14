@@ -1,7 +1,7 @@
-# Pesquisas 🔎
-#### A etapa de pesquisa foi o primeiro passo do nosso projeto, e funcionou com cada integrante fazendo uma pesquisa sobre o tema buscando a fundo todos os topicos que seriam futuramente abordados na apresentação.
+# <p align="center">Pesquisas 🔎</p>
+#### <p align="center"> A etapa de pesquisa foi o primeiro passo do nosso projeto, e funcionou com cada integrante fazendo uma pesquisa sobre o tema buscando a fundo todos os topicos que seriam futuramente abordados na apresentação.</p>
 
-
+&nbsp;
 <table align="center">
   <tr>
     <th>Integrantes</th>
@@ -37,6 +37,5 @@
   </tr>
 </table>
 
-
-
+&nbsp;
 <p align="center"> <a href="https://github.com/Marcaum04/Normalizacao-G2M/">Voltar ao menu</a> </p>
