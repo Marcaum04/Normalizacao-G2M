@@ -10,3 +10,4 @@ Gustavo Borges | <a href="#"> <img src="https://img.shields.io/badge/Microsoft_W
 Levi Bueno | <a href="#"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> </a> 
 Lívia Negrini | <a href="#"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> </a> 
 Matheus Araújo | <a href="#"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> </a> 
+Todos | <a href="#"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> </a> 
