@@ -20,7 +20,7 @@
 </table>
 &nbsp;
 
-## <p align="center">Trello 📈</p>
+## <p align="center">Trello 📝</p>
 <p align="center">Aqui temos o Trello feito pela equipe, este que é o ambiente utilizado para organizar o projeto de acordo com tarefas, etapas e integrantes.</p>
 
 
