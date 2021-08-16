@@ -6,8 +6,12 @@ VALUES ('LIMPEZA'), ('VENDA'),
 ('RECURSOS HUMANOS');
 GO
 
-INSERT INTO CARGO(idSetor, nomeCargo)
-VALUES (1, 'Auxiliar de Limpeza'), (1, 'Faxina'), (3,'Auxiliar de RH'), (3,'Analista'), (3,'Recrutador'), (2, 'Gerente'), (2, 'Supervisor');
+INSERT INTO CARGO(nomeCargo)
+VALUES ('Auxiliar'), ('Faxina'), ('Analista'), ('Recrutador'), ('Gerente'), ('Supervisor');
+GO
+
+INSERT INTO CARGOFUNCIONARIO(idSetor, idCargo)
+VALUES (1,1), (1,2), (3,1), (3,3), (3,4), (2,5), (2,6);
 GO
 
 INSERT INTO FUNCIONARIO(IdCargo, nomeFuncionario, CPF, salario, dataContratacao)

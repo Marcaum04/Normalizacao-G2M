@@ -1,4 +1,4 @@
-USE EXEMPLO_NORMAS_CERTO;
+	USE EXEMPLO_NORMAS_CERTO;
 GO
 
 SELECT FUNCIONARIO.idFuncionario 'Número do funcionário', nomeFuncionario 'Nome do funcionário', numTelefone 'Número do telefone', endEmail 'Endereço de email', nomeCargo 'Nome do cargo', CPF, salario, dataContratacao 'Data de contratação', nomeSetor 'Nome do setor'
