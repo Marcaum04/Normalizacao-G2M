@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>Gustavo Borges</td>
-    <td> <a href="#"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> </a> </td>
+    <td> <a href="https://github.com/Marcaum04/Normalizacao-G2M/blob/main/Projeto_Normaliza%C3%A7%C3%A3o/Pesquisa/Pesquisa%20Normaliza%C3%A7%C3%A3o_%20Gustavo%20Borges.docx?raw=true"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> </a> </td>
   </tr>
   <tr>
     <td>Levi Bueno</td>
