@@ -17,9 +17,6 @@ CREATE TABLE FUNCIONARIOS(
 );
 GO
 
-SELECT * FROM FUNCIONARIOS ORDER BY nome asc;
-
-
 INSERT INTO FUNCIONARIOS (nome, telefone, email, cargo, cpf, salario, dataContratacao, setor)
 VALUES ('Vanessa', '11906234283', 'vanessa@gmail.com', 'Faxineira', '46352637485', 1962.32, '2019-05-17', 'Limpeza'),
 ('Vanderson', '11976234872', 'vanderson.almeida@gmail.com', 'Auxiliar de Limpeza', '44635274857', 1682.53, '2020-08-13', 'Limpeza'),
@@ -29,3 +26,6 @@ VALUES ('Vanessa', '11906234283', 'vanessa@gmail.com', 'Faxineira', '46352637485
 ('Vanessa', '11906234283', 'vanessa@gmail.com', 'Faxineira', '46352527485', 1962.32, '2019-05-17', 'Limpeza'),
 ('Julio', '11976234872', 'julio.almeida@gmail.com', 'Gerente', '44097764857', 3667.67, '2020-10-15', 'Vendas'),
 ('Kleber', '11906463123', 'klebinhoDoPren@gmail.com', 'Supervisor', '46934231789', 2600.15, '2021-01-22', 'Vendas');
+
+
+SELECT * FROM FUNCIONARIOS ORDER BY nome asc;

@@ -14,13 +14,21 @@ INSERT INTO CARGOFUNCIONARIO(idSetor, idCargo)
 VALUES (1,1), (1,2), (3,1), (3,3), (3,4), (2,5), (2,6);
 GO
 
-INSERT INTO FUNCIONARIO(IdCargo, nomeFuncionario, CPF, salario, dataContratacao)
-VALUES (1, 'Vanessa', '44635274857', 1682.53, '2020-08-13'),
+SELECT idCargoFuncionario, nomeSetor,nomeCargo
+FROM CARGOFUNCIONARIO
+INNER JOIN CARGO
+ON CARGOFUNCIONARIO.idCargo = Cargo.idCargo
+INNER JOIN SETOR 
+ON CARGOFUNCIONARIO.idSetor = Setor.idSetor;
+GO
+
+INSERT INTO FUNCIONARIO(IdCargoFuncionario, nomeFuncionario, CPF, salario, dataContratacao)
+VALUES (2, 'Vanessa', '44635274857', 1682.53, '2020-08-13'),
 (3, 'Roberto', '46474437568', 1793.22, '2021-11-26'),
-(3, 'Alessandra', '43647363744', 2500.00, '2018-10-18'),
-(3, 'Venicius', '23146834173', 1851.33, '2019-01-13'),
-(2, 'Julio', '44097764857', 3667.67, '2020-10-15'),
-(2, 'Kleber', '46934231789', 2600.15, '2021-01-22'),
+(4, 'Alessandra', '43647363744', 2500.00, '2018-10-18'),
+(5, 'Venicius', '23146834173', 1851.33, '2019-01-13'),
+(6, 'Julio', '44097764857', 3667.67, '2020-10-15'),
+(7, 'Kleber', '46934231789', 2600.15, '2021-01-22'),
 (1, 'Vanderson', '45615648842', 1793.22, '2020-08-13');
 GO
 
